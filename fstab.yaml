@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p82002-e2192102.adobeaemcloud.com/bin/franklin.delivery/albertozarzam/eds-template-ai/main"
+    type: "markup"
+    suffix: ".html"

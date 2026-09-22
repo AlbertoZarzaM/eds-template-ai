@@ -2,6 +2,9 @@
 coverage/*
 logs/*
 node_modules/*
+playwright-report/*
+test-results/*
+.env
 
 helix-importer-ui
 .DS_Store
